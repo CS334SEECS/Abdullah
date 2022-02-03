@@ -1,2 +1,2 @@
-# Abdullah
+# abdullah-khan
 Lab 1
